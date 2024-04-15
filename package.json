@@ -1,0 +1,26 @@
+{
+  "name": "find-item-from-array",
+  "version": "1.0.1",
+  "description": "to find any item from required array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhii5496/test-repo.git"
+  },
+  "keywords": [
+    "array",
+    "find"
+  ],
+  "author": "Abhii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhii5496/test-repo/issues"
+  },
+  "homepage": "https://github.com/Abhii5496/test-repo#readme",
+  "dependencies": {
+    "find-item-from-array": "^1.0.0"
+  }
+}
