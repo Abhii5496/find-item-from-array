@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Abhii5496/test-repo#readme",
   "dependencies": {
-    "find-item-from-array": "^1.0.0"
+    "find-item-from-array": "^1.1.1"
   }
 }
