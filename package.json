@@ -1,6 +1,6 @@
 {
   "name": "find-item-from-array",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "description": "to find any item from required array",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abhii5496/test-repo.git"
+    "url": "https://github.com/Abhii5496/test-repo"
   },
   "keywords": [
     "array",
