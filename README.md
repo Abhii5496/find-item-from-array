@@ -1,4 +1,4 @@
-# test-repo
+# find-item-from-array
 
 1. First argument should be an array
 2. Second argument will be the item you want to find inside you array
